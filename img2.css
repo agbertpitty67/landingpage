@@ -1,0 +1,8 @@
+.imagen3 {
+    float: right;
+    margin-right: 20px; /* Espacio a la derecha para separación */
+    position: relative;
+    top: -410px;
+    width: 400px;
+    height: 300px;
+}

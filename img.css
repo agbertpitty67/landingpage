@@ -1,0 +1,8 @@
+.imagen1 {
+    float: right;
+    margin-right: 20px; /* Espacio a la derecha para separación */
+    position: relative;
+    top: -610px;
+    width: 400px;
+    height: 300px;
+}
